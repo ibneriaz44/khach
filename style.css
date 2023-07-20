@@ -1,0 +1,54 @@
+h1 {
+    text-align: center;
+    font-size: 40px;
+    color: rgb(2, 103, 69);
+}
+p {
+    text-align: center;
+    font-size: 30px;
+}
+table {
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 50%;
+    direction: rtl;
+    font-size: 30px;
+    
+}
+table, th, td {
+    border: 1px solid;
+    text-align: center;
+    border-collapse: collapse;
+    font-family: alvi nastaleeq;
+    font: bolder;
+}
+td {
+    padding: 3px;
+    color: #000;
+    background-color: #fff;
+    
+}
+table :hover {
+    color: #fff;
+    background-color: rgb(231, 126, 87);
+    transition: 1s;
+}
+th {
+    padding: 10px;
+    color: #000;
+    background-color: #fff;
+    font-size: 50px;
+}
+button {
+    font-size: 50px;
+    width: 100%;
+    background-color: rgb(237, 143, 109);
+}
+.one {
+    width: 50%;
+    float: left;
+}
+.two {
+    width:40%;
+    float: right;
+}
